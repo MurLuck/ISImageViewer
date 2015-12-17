@@ -12,6 +12,7 @@
 		3ECE6A451C22C90300790D7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ECE6A431C22C90300790D7A /* Main.storyboard */; };
 		3ECE6A471C22C90300790D7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3ECE6A461C22C90300790D7A /* Assets.xcassets */; };
 		3ECE6A4A1C22C90300790D7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ECE6A481C22C90300790D7A /* LaunchScreen.storyboard */; };
+		3ECE6A541C22C9B100790D7A /* ISImageViewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ECE6A531C22C9B100790D7A /* ISImageViewer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3ECE6A461C22C90300790D7A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3ECE6A491C22C90300790D7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3ECE6A4B1C22C90300790D7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3ECE6A531C22C9B100790D7A /* ISImageViewer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ISImageViewer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +56,21 @@
 		3ECE6A3E1C22C90300790D7A /* ISImageViewer */ = {
 			isa = PBXGroup;
 			children = (
+				3ECE6A521C22C9A000790D7A /* ISImageViewer */,
 				3ECE6A3F1C22C90300790D7A /* AppDelegate.swift */,
 				3ECE6A411C22C90300790D7A /* ViewController.swift */,
 				3ECE6A431C22C90300790D7A /* Main.storyboard */,
 				3ECE6A461C22C90300790D7A /* Assets.xcassets */,
 				3ECE6A481C22C90300790D7A /* LaunchScreen.storyboard */,
 				3ECE6A4B1C22C90300790D7A /* Info.plist */,
+			);
+			path = ISImageViewer;
+			sourceTree = "<group>";
+		};
+		3ECE6A521C22C9A000790D7A /* ISImageViewer */ = {
+			isa = PBXGroup;
+			children = (
+				3ECE6A531C22C9B100790D7A /* ISImageViewer.swift */,
 			);
 			path = ISImageViewer;
 			sourceTree = "<group>";
@@ -136,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3ECE6A421C22C90300790D7A /* ViewController.swift in Sources */,
+				3ECE6A541C22C9B100790D7A /* ISImageViewer.swift in Sources */,
 				3ECE6A401C22C90300790D7A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -198,7 +210,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -236,7 +248,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -284,6 +296,7 @@
 				3ECE6A501C22C90300790D7A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
