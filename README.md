@@ -12,7 +12,7 @@ ISImageViewerController
 and then its simple use, just create an instance and pass the imageview to present:
 
 ````Swift
-let ivvc = ISImageViewerController(imageView)
+let ivvc = ISImageViewer(imageView)
 ````
 
 then just call 
