@@ -101,8 +101,9 @@ func rotationHandling(size:CGSize)
 
 >**NOTE:**
 >
->you better override UIView function .
-> override func viewWillTransitionToSize(size: CGSize, withTransitionCoordinator coordinator: UIViewControllerTransitionCoordinator) 
+> you better override UIView function .
+> 
+>override func viewWillTransitionToSize(size: CGSize, withTransitionCoordinator coordinator:UIViewControllerTransitionCoordinator) 
 >
 >and handle the rotation ther and call ivvc.rotationHandling(size:CGSize) in that function but its up to you.
 
