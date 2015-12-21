@@ -3,7 +3,7 @@ ISImageViewerController
 
 ### Any issues, bugs and improvments reported are highly appreciated
 
-![Screenshot0][img0] &nbsp;&nbsp; ![Screenshot1][img1] &nbsp;&nbsp; ![Screenshot0][img2] &nbsp;&nbsp; ![Screenshot1][img3] &nbsp;&nbsp;
+![Screenshot0][img0] &nbsp;&nbsp; ![Screenshot1][img1] &nbsp;&nbsp; ![Screenshot0][img2] &nbsp;&nbsp; ![Screenshot1][img3] &nbsp;&nbsp; ![Screenshot0][img4] &nbsp;&nbsp; ![Screenshot1][img5] &nbsp;&nbsp;
 
 ## Getting Started
 
@@ -133,3 +133,5 @@ this was writen based on what iv learned from peoples guide for swift
 [img1]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/master/2.png
 [img2]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/master/3.png
 [img3]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/master/4.png
+[img4]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/master/5.png
+[img5]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/master/6.png
