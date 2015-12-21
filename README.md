@@ -128,7 +128,7 @@ this was writen based on what iv learned from peoples guide for swift
 *Please provide attribution, it is greatly appreciated.*
 
 
-[img0]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/ISImageViewer/1.png
-[img1]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/ISImageViewer/2.png
-[img2]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/ISImageViewer/3.png
-[img3]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/ISImageViewer/4.png
+[img0]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/master/1.png
+[img1]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/master/2.png
+[img2]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/master/3.png
+[img3]:https://raw.githubusercontent.com/MurLuck/ISImageViewer/master/4.png
